@@ -41,6 +41,6 @@ Projetar sistemas distribuídos escaláveis e arquiteturas limpas. Trabalho com 
 ## 📊 Atividade no GitHub
 
 <div >
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rodolfocop&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Estatísticas de rodolfocop no GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfocop&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas nos repositórios de rodolfocop" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=rodolfocop&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Estatísticas de rodolfocop no GitHub" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodolfocop&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas nos repositórios de rodolfocop" />
 </div>
